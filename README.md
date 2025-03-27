@@ -4,6 +4,7 @@ Platform : Unreal 5.3 (C++)
 스토리 및 연출 중심의 FPS + 플랫포머 3D 1인칭 게임  
 초반부 2D 게임 연출, UI 기능, 캐릭터 위치 및 레벨 전환, 아이템 습득 및 배치, 하이라이트 기능 등 BluePrint로 구현  
 게임 플레이 영상 : https://www.youtube.com/watch?v=LbjHGsm3aO8  
+게임 공유 링크 : https://drive.google.com/file/d/1KPQBFWGDR7kMGLgSMH6o_ZmvgED4h2ni/view?usp=sharing  
 자세한 내용 참고 : https://blob-thinking.tistory.com/849
   
 **맵 에셋**  
