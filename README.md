@@ -1,5 +1,5 @@
 **프로젝트명 : Just Move**  
-Platform : Unreal 5.3 (C++)  
+Platform : Unreal 5.4 (C++)  
 1인 언리얼 게임 개발 학부 졸업 프로젝트  
 스토리 및 연출 중심의 FPS + 플랫포머 3D 1인칭 게임  
 초반부 2D 게임 연출, UI 기능, 캐릭터 위치 및 레벨 전환, 아이템 습득 및 배치, 하이라이트 기능 등 BluePrint로 구현  
