@@ -12,6 +12,7 @@ Platform : Unreal 5.4 (C++)
 게임 공유 링크 (네이버 박스) : https://naver.me/x0XKQ60X  
 자세한 내용 참고 : https://blob-thinking.tistory.com/849
 
+
 **코드 참고**  
 
 `GameAnimInstance.cpp / .h` : 캐릭터 앉기 모션 애니메이션 할당  
@@ -23,6 +24,7 @@ Platform : Unreal 5.4 (C++)
 `LaserBeam.cpp / .h` : 레이저 빔 이펙트 할당 및 활성화 (무기 2번 기능)  
 `TP_PickUpComponent.cpp / .h` : 무기 자동 습득 기능 (기본 언리얼 1인칭 게임 템플릿 그대로 사용)  
 `TP_WeaponComponent.cpp / .h` : 무기 관련 기능 및 누적 충격량 활성화 기능 구현 (기본 언리얼 1인칭 게임 템플릿 참고)
+
 
 **맵 에셋**  
 용량 문제로 push 불가하여 따로 기재
