@@ -12,7 +12,8 @@ Platform : Unreal 5.4 (C++)
 게임 공유 링크 (네이버 박스) : https://naver.me/x0XKQ60X  
 자세한 내용 참고 : https://blob-thinking.tistory.com/849
 
-**코드 참고**   
+**코드 참고**     
+
 `GameAnimInstance.cpp / .h`  
  - 캐릭터 앉기 모션 애니메이션 할당
 `GameCharacter.cpp / .h`  
