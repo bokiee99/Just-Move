@@ -5,10 +5,12 @@ Platform : Unreal 5.4 (C++)
 기본 캐릭터 및 총기 언리얼 게임 1인칭 템플릿 사용
 초반부 2D 게임 연출, UI 기능, 캐릭터 위치 및 레벨 전환, 아이템 습득 및 배치, 하이라이트 기능 등 BluePrint로 구현    
 
+게임 플레이 영상 : https://www.youtube.com/watch?v=LbjHGsm3aO8      
+게임 공유 링크  
+- https://naver.me/5R4cnWqT
+- https://drive.google.com/file/d/12FT2joSmZJQRB5ENzm1gKdbJuPkz90LA/view?usp=drive_link
 개발 및 구현 PDF (네이버 박스) : https://naver.me/ID3BOTVO   
 기획서 PDF (네이버 박스) : https://naver.me/xcAKmVfC  
-게임 플레이 영상 : https://www.youtube.com/watch?v=LbjHGsm3aO8      
-게임 공유 링크 (네이버 박스) : https://naver.me/5R4cnWqT  
 자세한 내용 참고 : https://blob-thinking.tistory.com/849
 
 
