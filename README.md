@@ -12,7 +12,7 @@ Platform : Unreal 5.4 (C++)
 자세한 내용 참고 : https://blob-thinking.tistory.com/849
 
 
-**코드 참고**  
+**코드 참고 (경로 Source/Game)**  
 `GameAnimInstance.cpp / .h` : 캐릭터 앉기 모션 애니메이션 할당  
 `GameCharacter.cpp / .h` : 캐릭터 움직임 관련 기능 구현, 앉기 모션에 따른 카메라 이동 구현  
 `GameDoor.cpp / .h` : 레이저를 통해 활성화되는 문 구현  
