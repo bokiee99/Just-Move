@@ -25,7 +25,7 @@ Platform : Unreal 5.4 (C++)
 
 
 **맵 에셋**  
-용량 문제로 push 불가하여 따로 기재
+용량 문제로 push 불가하여 개별 기재 함  
 - Edith Finch: Classrooms and Bedrooms (언리얼 마켓 플레이스)
 - Edith Finch: Molloy Room (언리얼 마켓 플레이스)
 - Edith Finch: Edie Room (언리얼 마켓 플레이스)
