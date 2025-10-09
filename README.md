@@ -7,8 +7,7 @@ Platform : Unreal 5.4 (C++)
 
 게임 플레이 영상 : https://youtu.be/vLpTmFmNDuw  
 게임 공유 링크 : https://naver.me/FUQ3Spde / https://drive.google.com/file/d/1v9fAzoU5jtBRCj5OTHshReLMiqK5VTlW/view?usp=sharing  
-개발 및 구현 PDF : https://naver.me/xxFpQcdt / https://drive.google.com/file/d/1SPUkupBoKjr6eNTgjOuW8dkKvUDfbi1X/view?usp=drive_link  
-기획서 PDF : https://naver.me/517QUSyW / https://drive.google.com/file/d/1ylI-O-jYrKb5bOucw38CaNuozswiWDWJ/view?usp=drive_link  
+기획 및 개발 PDF : https://naver.me/FzshNIKM / https://drive.google.com/file/d/18jqDV5NQmA59Zw2UV0220c6CHdNNo4ux/view?usp=sharing    
 자세한 내용 참고 : https://blob-thinking.tistory.com/849
 
 
